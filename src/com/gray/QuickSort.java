@@ -6,7 +6,7 @@ import java.util.Stack;
 /**
  * Created by lenovo on 2017/2/24.
  */
-public class Quicksort {
+public class QuickSort {
     public static void main(String args[]) {
         int a[] = {6, 10, 5, 3, 8, 9, 1, 4, 2, 7};
         function(a);
